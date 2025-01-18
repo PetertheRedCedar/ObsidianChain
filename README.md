@@ -1,3 +1,7 @@
+# ObsididanChain is a decentralized and private cryptocurrency hard forked off of the Monero sourceode. 
+Monero is a private and decentralized cryptocurrency. ObsidianChain further enhances this.
+ObsididianChain will eventually support multi-algorithm mining, such as RandomX, Sha256, Equihash, etc, but it needs to get off its knees first.
+
 # Monero
 
 Copyright (c) 2014-2024, The Monero Project
